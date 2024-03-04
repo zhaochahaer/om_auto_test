@@ -1,0 +1,57 @@
+2024-01-15 18:02:39,311 - INFO : 
+2024-01-15 18:02:39,312 - INFO : 
+2024-01-15 18:02:39,312 - INFO : Starting OM testing...
+2024-01-15 18:02:39,312 - INFO : Code executed successfully
+2024-01-15 18:02:39,539 - INFO : /opt/om_auto_test/shell/
+2024-01-15 18:02:39,627 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-15 18:02:39,942 - INFO : Authentication (password) successful!
+2024-01-15 18:02:39,944 - INFO : Preparing to execute command: rm -rf /opt/om_auto_test/shell/ && mkdir -p /opt/om_auto_test/shell/
+2024-01-15 18:02:40,209 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-15 18:02:40,545 - INFO : Authentication (password) successful!
+2024-01-15 18:02:40,759 - INFO : [chan 0] Opened sftp connection (server version 3)
+2024-01-15 18:02:40,761 - INFO : 文件类型 ==2,文件名 ==
+2024-01-15 18:02:40,764 - INFO : +++ 上传 C:\code_om\om_auto_test\lib/../shell/check_env_xtp.sh 到 10.14.40.184:/opt/om_auto_test/shell/./check_env_xtp.sh
+2024-01-15 18:02:40,932 - INFO : [chan 0] sftp session closed.
+2024-01-15 18:02:41,033 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-15 18:02:41,387 - INFO : Authentication (password) successful!
+2024-01-15 18:02:41,388 - INFO : Preparing to execute command: rm -rf /opt/om_auto_test/shell/ && mkdir -p /opt/om_auto_test/shell/
+2024-01-15 18:02:41,691 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-15 18:02:42,046 - INFO : Authentication (password) successful!
+2024-01-15 18:02:42,255 - INFO : [chan 0] Opened sftp connection (server version 3)
+2024-01-15 18:02:42,256 - INFO : 文件类型 ==2,文件名 ==
+2024-01-15 18:02:42,257 - INFO : +++ 上传 C:\code_om\om_auto_test\lib/../shell/check_env_xtp.sh 到 10.14.40.185:/opt/om_auto_test/shell/./check_env_xtp.sh
+2024-01-15 18:02:42,430 - INFO : [chan 0] sftp session closed.
+2024-01-15 18:02:53,691 - INFO : 正在初始化,driver对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="87d85da8d571a2891d9df1b8d56485ff")>
+2024-01-15 18:02:57,556 - INFO : 正调用输入元素方法：('css selector', '.ant-input#userName') 输入内容：qbadmin
+2024-01-15 18:02:57,557 - INFO : 正调查找击元素：('css selector', '.ant-input#userName')
+2024-01-15 18:02:58,099 - INFO : 输入框清空前的值：
+2024-01-15 18:02:59,175 - INFO : 正调用输入元素方法：('css selector', '.ant-input#password') 输入内容：qbadmin123
+2024-01-15 18:02:59,175 - INFO : 正调查找击元素：('css selector', '.ant-input#password')
+2024-01-15 18:02:59,189 - INFO : 输入框清空前的值：
+2024-01-15 18:03:00,250 - INFO : 正调用点击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-15 18:03:00,250 - INFO : 正调查找击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-15 18:03:00,319 - INFO : 正调用获取元素信息方法：('css selector', '#root > div > div.antd-pro-layouts-user-layout-content > div.antd-pro-pages-user-login-style-main > div > form > div.ant-alert.ant-alert-error > span.ant-alert-message')
+2024-01-15 18:03:00,319 - INFO : 正调查找击元素：('css selector', '#root > div > div.antd-pro-layouts-user-layout-content > div.antd-pro-pages-user-login-style-main > div > form > div.ant-alert.ant-alert-error > span.ant-alert-message')
+2024-01-15 18:03:04,957 - INFO : 正调用输入元素方法：('css selector', '.ant-input#userName') 输入内容：qbadmin123
+2024-01-15 18:03:04,957 - INFO : 正调查找击元素：('css selector', '.ant-input#userName')
+2024-01-15 18:03:05,496 - INFO : 输入框清空前的值：
+2024-01-15 18:03:06,568 - INFO : 正调用输入元素方法：('css selector', '.ant-input#password') 输入内容：qbadmin
+2024-01-15 18:03:06,568 - INFO : 正调查找击元素：('css selector', '.ant-input#password')
+2024-01-15 18:03:06,577 - INFO : 输入框清空前的值：
+2024-01-15 18:03:07,637 - INFO : 正调用点击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-15 18:03:07,638 - INFO : 正调查找击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-15 18:03:07,699 - INFO : 正调用获取元素信息方法：('css selector', '#root > div > div.antd-pro-layouts-user-layout-content > div.antd-pro-pages-user-login-style-main > div > form > div.ant-alert.ant-alert-error > span.ant-alert-message')
+2024-01-15 18:03:07,699 - INFO : 正调查找击元素：('css selector', '#root > div > div.antd-pro-layouts-user-layout-content > div.antd-pro-pages-user-login-style-main > div > form > div.ant-alert.ant-alert-error > span.ant-alert-message')
+2024-01-15 18:03:12,100 - INFO : 正调用输入元素方法：('css selector', '.ant-input#userName') 输入内容：admin
+2024-01-15 18:03:12,101 - INFO : 正调查找击元素：('css selector', '.ant-input#userName')
+2024-01-15 18:03:12,633 - INFO : 输入框清空前的值：
+2024-01-15 18:03:13,689 - INFO : 正调用输入元素方法：('css selector', '.ant-input#password') 输入内容：admin
+2024-01-15 18:03:13,689 - INFO : 正调查找击元素：('css selector', '.ant-input#password')
+2024-01-15 18:03:13,698 - INFO : 输入框清空前的值：
+2024-01-15 18:03:14,751 - INFO : 正调用点击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-15 18:03:14,751 - INFO : 正调查找击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-15 18:03:14,816 - INFO : 正调用获取元素信息方法：('css selector', '#root > div > section > aside > div > ul > li.ant-menu-submenu.ant-menu-submenu-inline.ant-menu-submenu-selected > div > span > span:nth-child(2)')
+2024-01-15 18:03:14,817 - INFO : 正调查找击元素：('css selector', '#root > div > section > aside > div > ul > li.ant-menu-submenu.ant-menu-submenu-inline.ant-menu-submenu-selected > div > span > span:nth-child(2)')
+2024-01-15 18:03:15,343 - INFO : 查找到的元素是：部署
+2024-01-15 18:03:15,343 - INFO : 正调用截图方法
+2024-01-15 18:03:30,727 - INFO : Email sent successfully!

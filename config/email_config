@@ -1,0 +1,13 @@
+&emsp;OM 自动化测试报告如下：<br><br>
+<strong>1.  硬件环境：</strong><br>
+&emsp;a) CPU型号: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz<br>
+&emsp;b) vCPU：48<br>
+&emsp;c) 内存: 256G<br>
+&emsp;d) 网络: Speed: 10000Mb/s 万兆网卡<br>
+&emsp;e) SATA HDD硬盘: 6*1.8T sata机械盘*raid0:/data <br>
+&emsp;f) SATA SSD硬盘: 无<br>
+&emsp;g) NVMe SSD硬盘: 无<br>
+<strong>2.  软件环境：</strong><br>
+&emsp;a)  操作系统：Kylin Linux Advanced Server release V10 (Tercel)<br>
+&emsp;b)  测试产品版本：v3.4.3-RC18-0<br>
+&emsp;c)  测试数据库版本：xTP v9.0.1-xTP<br>

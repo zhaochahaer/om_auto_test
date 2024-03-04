@@ -1,0 +1,70 @@
+2024-01-12 17:48:22,914 - INFO : 
+2024-01-12 17:48:22,914 - INFO : 
+2024-01-12 17:48:22,914 - INFO : Starting OM testing...
+2024-01-12 17:48:22,914 - INFO : Code executed successfully
+2024-01-12 17:48:23,172 - INFO : /opt/om_auto_test/shell/
+2024-01-12 17:48:23,251 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 17:48:23,582 - INFO : Authentication (password) successful!
+2024-01-12 17:48:23,582 - INFO : Preparing to execute command: rm -rf /opt/om_auto_test/shell/ && mkdir -p /opt/om_auto_test/shell/
+2024-01-12 17:48:23,860 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 17:48:24,172 - INFO : Authentication (password) successful!
+2024-01-12 17:48:24,381 - INFO : [chan 0] Opened sftp connection (server version 3)
+2024-01-12 17:48:24,383 - INFO : 文件类型 ==2,文件名 ==
+2024-01-12 17:48:24,386 - INFO : +++ 上传 C:\code_om\om_auto_test\lib/../shell/check_env_xtp.sh 到 10.14.40.184:/opt/om_auto_test/shell/./check_env_xtp.sh
+2024-01-12 17:48:24,550 - INFO : [chan 0] sftp session closed.
+2024-01-12 17:48:24,636 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 17:48:25,006 - INFO : Authentication (password) successful!
+2024-01-12 17:48:25,008 - INFO : Preparing to execute command: rm -rf /opt/om_auto_test/shell/ && mkdir -p /opt/om_auto_test/shell/
+2024-01-12 17:48:25,297 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 17:48:25,653 - INFO : Authentication (password) successful!
+2024-01-12 17:48:25,868 - INFO : [chan 0] Opened sftp connection (server version 3)
+2024-01-12 17:48:25,870 - INFO : 文件类型 ==2,文件名 ==
+2024-01-12 17:48:25,871 - INFO : +++ 上传 C:\code_om\om_auto_test\lib/../shell/check_env_xtp.sh 到 10.14.40.185:/opt/om_auto_test/shell/./check_env_xtp.sh
+2024-01-12 17:48:26,032 - INFO : [chan 0] sftp session closed.
+2024-01-12 17:48:40,057 - INFO : 正在初始化,driver对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="c7024106de3a7509d9d3261c0f252e24")>
+2024-01-12 17:48:40,057 - INFO : 正调用输入元素方法：('css selector', '.ant-input#userName') 输入内容：admin
+2024-01-12 17:48:40,057 - INFO : 正调查找击元素：('css selector', '.ant-input#userName')
+2024-01-12 17:48:40,588 - INFO : 输入框清空前的值：
+2024-01-12 17:48:41,657 - INFO : 正调用输入元素方法：('css selector', '.ant-input#password') 输入内容：admin
+2024-01-12 17:48:41,657 - INFO : 正调查找击元素：('css selector', '.ant-input#password')
+2024-01-12 17:48:41,674 - INFO : 输入框清空前的值：
+2024-01-12 17:48:42,722 - INFO : 正调用点击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-12 17:48:42,722 - INFO : 正调查找击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-12 17:48:42,797 - INFO : 正调用点击元素：('xpath', '//*[@id="root"]/div/section/aside/div/ul/li[2]/div/span/span[2]')
+2024-01-12 17:48:42,797 - INFO : 正调查找击元素：('xpath', '//*[@id="root"]/div/section/aside/div/ul/li[2]/div/span/span[2]')
+2024-01-12 17:48:43,881 - INFO : 正调用点击元素：('xpath', '//a[contains(@href, "/xtp/dashboard/services")]')
+2024-01-12 17:48:43,881 - INFO : 正调查找击元素：('xpath', '//a[contains(@href, "/xtp/dashboard/services")]')
+2024-01-12 17:48:45,006 - INFO : 正调查找击元素：('xpath', "//button[@class='ant-btn ant-btn-sm' and contains(span/@class, 'antd-pro-pages-v2-services-index-restart-icon')]")
+2024-01-12 17:48:45,006 - INFO : 正调用点击元素：('xpath', "//button[@class='ant-btn ant-btn-sm' and contains(span/@class, 'antd-pro-pages-v2-services-index-restart-icon')]")
+2024-01-12 17:48:45,006 - INFO : 正调查找击元素：('xpath', "//button[@class='ant-btn ant-btn-sm' and contains(span/@class, 'antd-pro-pages-v2-services-index-restart-icon')]")
+2024-01-12 17:48:46,073 - INFO : 正调用点击元素：('xpath', "//div[@class='ant-modal-confirm-btns']//button[@class='ant-btn ant-btn-primary']/span[text()='是']")
+2024-01-12 17:48:46,073 - INFO : 正调查找击元素：('xpath', "//div[@class='ant-modal-confirm-btns']//button[@class='ant-btn ant-btn-primary']/span[text()='是']")
+2024-01-12 17:48:49,127 - INFO : 正调用点击元素：('css selector', '.antd-pro-components-global-header-index-action .antd-pro-components-global-header-index-badge')
+2024-01-12 17:48:49,127 - INFO : 正调查找击元素：('css selector', '.antd-pro-components-global-header-index-action .antd-pro-components-global-header-index-badge')
+2024-01-12 17:48:52,343 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:48:52,343 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:02,531 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:02,531 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:12,704 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:12,704 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:22,883 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:22,883 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:33,062 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:33,062 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:43,242 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:43,242 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:53,424 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:49:53,424 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:50:03,603 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:50:03,603 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:50:13,769 - INFO : 最新执行的命令：['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:50:13,769 - INFO : ['重启数据库', '集群', '执行中', '取 消']
+2024-01-12 17:50:23,929 - INFO : 最新执行的命令：['重启数据库', '集群', '成功', '2024-01-12 17:48:45']
+2024-01-12 17:50:23,929 - INFO : ['重启数据库', '集群', '成功', '2024-01-12 17:48:45']
+2024-01-12 17:50:23,929 - INFO : check_database_xtp...
+2024-01-12 17:50:24,020 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 17:50:24,295 - INFO : Authentication (password) successful!
+2024-01-12 17:50:24,295 - INFO : Preparing to execute command: sh /opt/om_auto_test/shell/check_env_xtp.sh
+2024-01-12 17:50:24,720 - INFO : Output from preparing to execute sh /opt/om_auto_test/shell/check_env_xtp.sh: Success: 所有节点健康状态正常
+2024-01-12 17:50:24,720 - INFO : Database health check: Success!
+2024-01-12 17:50:40,617 - INFO : Email sent successfully!

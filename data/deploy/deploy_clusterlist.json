@@ -1,0 +1,11 @@
+{
+    "test_deploy_clusterlist_01": {
+      "expected_clust_name": "zx"
+    },
+    "test_deploy_clusterlist_02": {
+        "expected_clust_type": "XTP"
+      },
+    "test_deploy_clusterlist_03": {
+        "expected_clust_status": "安装 完成"
+      }
+}

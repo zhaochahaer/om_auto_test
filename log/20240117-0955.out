@@ -1,0 +1,15 @@
+2024-01-17 09:55:11,677 - INFO : 
+2024-01-17 09:55:11,678 - INFO : 
+2024-01-17 09:55:11,679 - INFO : Starting OM testing...
+2024-01-17 09:55:11,679 - INFO : Code executed successfully
+2024-01-17 09:55:16,976 - INFO : 正在初始化,driver对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="a1424ea9a53a429f1ff693264504cc1f")>
+2024-01-17 09:55:16,976 - INFO : 正调用输入元素方法：('css selector', '.ant-input#userName') 输入内容：admin
+2024-01-17 09:55:16,976 - INFO : 正调查找击元素：('css selector', '.ant-input#userName')
+2024-01-17 09:55:17,500 - INFO : 输入框清空前的值：
+2024-01-17 09:55:18,573 - INFO : 正调用输入元素方法：('css selector', '.ant-input#password') 输入内容：admin
+2024-01-17 09:55:18,574 - INFO : 正调查找击元素：('css selector', '.ant-input#password')
+2024-01-17 09:55:18,590 - INFO : 输入框清空前的值：
+2024-01-17 09:55:19,645 - INFO : 正调用点击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-17 09:55:19,645 - INFO : 正调查找击元素：('css selector', '.ant-btn.antd-pro-pages-user-login-components-login-index-submit.ant-btn-primary.ant-btn-lg.ant-btn-two-chinese-chars')
+2024-01-17 09:55:19,717 - INFO : 测试集群页面的集群名称...
+2024-01-17 09:55:20,353 - INFO : ['集群名', 'UUID', '集群类型', '部署模式', '部署状态', '版本', '主机数', '角色数', '创建时间', '未完成操作', 'zx', '04ef375c-5131-4d66-b72f-faa8e6823d22', 'XTP', '安装 完成', 'QianBase xTP v9.0.1-xTP', '2', '6', '2023-12-27 15:34:50']

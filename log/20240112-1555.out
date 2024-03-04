@@ -1,0 +1,25 @@
+2024-01-12 15:55:35,019 - INFO : 
+2024-01-12 15:55:35,019 - INFO : 
+2024-01-12 15:55:35,019 - INFO : Starting OM testing...
+2024-01-12 15:55:35,035 - INFO : Code executed successfully
+2024-01-12 15:55:35,257 - INFO : /opt/om_auto_test/shell/
+2024-01-12 15:55:35,355 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 15:55:35,692 - INFO : Authentication (password) successful!
+2024-01-12 15:55:35,693 - INFO : Preparing to execute command: rm -rf /opt/om_auto_test/shell/ && mkdir -p /opt/om_auto_test/shell/
+2024-01-12 15:55:35,973 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 15:55:36,302 - INFO : Authentication (password) successful!
+2024-01-12 15:55:36,758 - INFO : [chan 0] Opened sftp connection (server version 3)
+2024-01-12 15:55:36,759 - INFO : 文件类型 ==2,文件名 ==
+2024-01-12 15:55:36,760 - INFO : +++ 上传 C:\code_om\om_auto_test\lib/../shell/check_env_xtp.sh 到 10.14.40.184:/opt/om_auto_test/shell/./check_env_xtp.sh
+2024-01-12 15:55:36,921 - INFO : [chan 0] sftp session closed.
+2024-01-12 15:55:37,006 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 15:55:37,336 - INFO : Authentication (password) successful!
+2024-01-12 15:55:37,336 - INFO : Preparing to execute command: rm -rf /opt/om_auto_test/shell/ && mkdir -p /opt/om_auto_test/shell/
+2024-01-12 15:55:37,612 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2024-01-12 15:55:37,971 - INFO : Authentication (password) successful!
+2024-01-12 15:55:38,183 - INFO : [chan 0] Opened sftp connection (server version 3)
+2024-01-12 15:55:38,183 - INFO : 文件类型 ==2,文件名 ==
+2024-01-12 15:55:38,183 - INFO : +++ 上传 C:\code_om\om_auto_test\lib/../shell/check_env_xtp.sh 到 10.14.40.185:/opt/om_auto_test/shell/./check_env_xtp.sh
+2024-01-12 15:55:38,353 - INFO : [chan 0] sftp session closed.
+2024-01-12 15:55:47,462 - ERROR : 无效的选择！
+2024-01-12 15:56:04,596 - INFO : Email sent successfully!

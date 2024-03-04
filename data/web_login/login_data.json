@@ -1,0 +1,17 @@
+{
+    "test_om_login_error_user_01": {
+      "username": "qbadmin123",
+      "password": "qbadmin",
+      "expected_error_message": "用户名或者密码错误"
+    },
+    "test_om_login_error_pwd_02": {
+      "username": "qbadmin",
+      "password": "qbadmin123",
+      "expected_error_message": "用户名或者密码错误"
+    },
+    "test_om_login_success_03": {
+      "username": "admin",
+      "password": "admin",
+      "expected_welcome_message": "部署"
+    }
+  }
